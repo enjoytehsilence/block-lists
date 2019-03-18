@@ -21,6 +21,7 @@ cognito-identity.us-east-1.amazonaws.com
 rec.replay.answerscloud.com
 pixel.anyclip.com
 cl2.apple.com
+cl5.apple.com
 cf.iadsdk.apple.com
 news.iadsdk.apple.com
 idiagnostics.apple.com
@@ -251,3 +252,7 @@ platform.cid.samba.tv
 preferences.cid.samba.tv
 a-origin.teads.tv
 mybbc-analytics.files.bbci.co.uk
+js.out.sh
+snippet.minute.ly
+www.oriori.com
+
