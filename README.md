@@ -9,3 +9,8 @@ cat feed.txt | sed 's/^.*\:\/\///' | sed 's/\/.*$//' | grep -v '[0-9]$' > newfee
 
 ./domainsort.py newfeed.txt > phish.txt
 
+massive.txt manually copied from https://dbl.oisd.nl
+
+morebig.txt parsed from https://smokingwheels.github.io/Pi-hole/allhosts
+
+cat allhosts | awk '{print $2}' > morebig.txt
