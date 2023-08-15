@@ -14,7 +14,6 @@ arcus-uswest.amazon.com
 mads.amazon.com
 mag-na.amazon.com
 msh.amazon.com
-unagi-na.amazon.com
 mg-p2-app-trackloa-tevrsa7sioi4-801238221.us-east-1.elb.amazonaws.com
 prod-cookiemonster-946555698.us-east-1.elb.amazonaws.com
 p-r-campaign-track-laey164dxhr-14164040.us-west-2.elb.amazonaws.com
@@ -123,7 +122,6 @@ imasdk.googleapis.com
 gretsternew.com
 allrecipes.groceryserver.com
 logging.groupon.com
-fonts.gstatic.com
 s.hedlazaran.com
 mobilityware.helpshift.com
 camo.stream.highwebmedia.com
