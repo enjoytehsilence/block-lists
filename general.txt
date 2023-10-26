@@ -116,7 +116,6 @@ googleadapis.l.google.com
 gstaticadssl.l.google.com
 plus.l.google.com
 plus.google.com
-fonts.googleapis.com
 imasdk.googleapis.com
 gretsternew.com
 allrecipes.groceryserver.com
@@ -316,7 +315,6 @@ d1ndtst66k4jzy.cloudfront.net
 d1s44l2n6n3ub3.cloudfront.net
 d23tl967axkois.cloudfront.net
 d2in0p32vp1pij.cloudfront.net
-d3ag4hukkh62yn.cloudfront.net
 d3v1e1o79zjyjx.cloudfront.net
 us-central1-custom-site-analytics.cloudfunctions.net
 go.ezoic.net
