@@ -114,7 +114,6 @@ abc-prod-telemetry.aws.seabc.go.com
 api.telemetry.watchabc.go.com
 googleadapis.l.google.com
 gstaticadssl.l.google.com
-plus.l.google.com
 plus.google.com
 imasdk.googleapis.com
 gretsternew.com
