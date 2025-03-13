@@ -24,3 +24,14 @@ ally.com
 www.ecompanystore.com
 cdn5.userzoom.com
 archive.is
+apis.google.com
+fonts.googleapis.com
+d3ag4hukkh62yn.cloudfront.net
+downdetector.com
+cdnjs.cloudflare.com
+hackaday.com
+payusatax.com
+widgets.outbrain.com
+arcus-uswest.amazon.com
+tp.47cf2c8c9-frontier.amazon.com
+www.freeones.com
